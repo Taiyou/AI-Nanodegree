@@ -10,6 +10,11 @@
 7. Dynamic Time warping
 8. Additional Topics
 
+
+# 7.
+## Pattern Recognitions through time
+- [Everything you know about Dynamic Time Warping is Wrong](http://wearables.cc.gatech.edu/paper_of_week/DTW_myths.pdf)
+
 # 8. Additional Topics
 ## Software Packages
 - [PyMC3](https://docs.pymc.io/notebooks/bayesian_neural_network_advi.html)

@@ -11,7 +11,14 @@
 8. Additional Topics
 
 
-# 7.
+# 5. Hidden Markov models
+- Viterbi algorithm
+## additional readings
+- [Speech and Language Processing Book of Daniel Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+- [Chapter 9: Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+- [Chapter 10: Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
+
+# 7. Dynamic Time Warping
 ## Pattern Recognitions through time
 - [Everything you know about Dynamic Time Warping is Wrong](http://wearables.cc.gatech.edu/paper_of_week/DTW_myths.pdf)
 
